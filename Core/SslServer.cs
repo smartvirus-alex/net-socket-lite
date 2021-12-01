@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// SSL server is used to connect, disconnect and manage SSL sessions

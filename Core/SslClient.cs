@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// SSL client is used to read/write data from/into the connected SSL server

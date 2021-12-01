@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// HTTP request is used to create or process parameters of HTTP protocol request(method, URL, headers, etc).

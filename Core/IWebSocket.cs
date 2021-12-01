@@ -1,6 +1,6 @@
 ﻿using System.Net.Sockets;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     public interface IWebSocket
     {

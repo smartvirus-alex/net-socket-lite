@@ -4,7 +4,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// UDP client is used to read/write data from/into the connected UDP server

@@ -2,7 +2,7 @@
 using System.IO;
 using System.Net;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// HTTPS server is used to create secured HTTPS Web server and communicate with clients using secure HTTPS protocol. It allows to receive GET, POST, PUT, DELETE requests and send HTTP responses.

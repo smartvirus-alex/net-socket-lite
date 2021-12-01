@@ -1,4 +1,4 @@
-﻿namespace SocketLite.Core
+﻿namespace NetSocketLite.Core
 {
     /// <summary>
     /// HTTPS session is used to receive/send HTTP requests/responses from the connected HTTPS client.

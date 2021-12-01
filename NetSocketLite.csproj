@@ -5,10 +5,10 @@
     <Version>5.1.0.0</Version>
     <Authors>Ivan Shynkarenka</Authors>
     <Copyright>Copyright (c) 2019-2021 Ivan Shynkarenka</Copyright>
-    <RepositoryUrl>https://github.com/chronoxor/NetCoreServer</RepositoryUrl>
+    <RepositoryUrl>https://github.com/smartvirus-alex/net-socket-lite.git</RepositoryUrl>
     <Description>Ultra fast and low latency asynchronous socket server &amp; client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/chronoxor/NetCoreServer</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/smartvirus-alex/net-socket-lite.git</PackageProjectUrl>
     <PackageTags>async;client;server;tcp;udp;ssl;tls;http;https;websocket;low latency;performance</PackageTags>
   </PropertyGroup>
 

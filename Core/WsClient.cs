@@ -2,7 +2,7 @@
 using System.Net.Sockets;
 using System.Text;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// WebSocket client

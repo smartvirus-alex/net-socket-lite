@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Web;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// File cache is used to cache files in memory with optional timeouts.

@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Text;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// WebSocket secure server

@@ -3,7 +3,7 @@ using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// HTTP client is used to communicate with HTTP Web server. It allows to send GET, POST, PUT, DELETE requests and receive HTTP result.

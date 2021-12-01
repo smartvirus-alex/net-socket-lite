@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// Dynamic byte buffer

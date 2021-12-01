@@ -2,7 +2,7 @@
 using System.Net;
 using System.IO;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// HTTP server is used to create HTTP Web server and communicate with clients using HTTP protocol. It allows to receive GET, POST, PUT, DELETE requests and send HTTP responses.

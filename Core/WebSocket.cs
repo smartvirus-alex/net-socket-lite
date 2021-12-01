@@ -3,7 +3,7 @@ using System.Text;
 using System.Security.Cryptography;
 using System.Collections.Generic;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// WebSocket utility class

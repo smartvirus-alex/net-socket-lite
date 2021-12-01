@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace SocketLite.Core
+namespace NetSocketLite.Core
 {
     /// <summary>
     /// Conversion metrics utilities
